@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Supun Nisala
 #### I am a Front Developer.
 ##### Design and Development 
-![My Work Station](https://github.com/Supun222/supunnisala/blob/main/Desktopsetupfull.jpg)
+![My Work Station](https://github.com/Supun222/supunnisala/blob/main/WorkStation.jpg)
 
 I am from Sri Lanka. Currently Under graduating on Software Engineering at University of Kelaniya, Sri Lanka.  
 
