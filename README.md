@@ -7,8 +7,7 @@ I am from Sri Lanka. Currently Under graduating on Software Engineering at Unive
 
 Skills: REACT / JS / HTML / CSS / Taildwind CSS / NestJS / C# / Java 
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning NestJS 
+- 🌱 I’m currently learning new technologies : NestJS, Flutter 
 - 📫 How to reach me: supunnisala.com 
 - ⚡ Fun fact: Life is cool with Coding  
 
