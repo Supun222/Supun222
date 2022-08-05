@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Supun Nisala
-#### I am a Front Developer.
+#### I am a Front-End Developer.
 ##### Work Station
 ![My Work Station](https://github.com/Supun222/Supun222/blob/main/WorkStation.jpg)
 
