@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Supun Nisala
-#### I am a Front-End Developer.
+#### I am a Full-Stack Developer.
 ##### Work Station
 ![My Work Station](https://github.com/Supun222/Supun222/blob/main/WorkStation.jpg)
 
 I am from Sri Lanka. Currently Under graduating on Software Engineering at University of Kelaniya, Sri Lanka.  
 
-Skills: REACT / JS / HTML / CSS / Taildwind CSS / NestJS / C# / Java 
+Skills: Phoenix / REACT / JS / HTML / CSS / Taildwind CSS / NestJS / C# / Java / Elixir 
 
-- 🌱 I’m currently learning new technologies : NestJS, Flutter 
+- 🌱 I’m currently learning new technologies : Elixir, Phoenix 
 - 📫 How to reach me: supunnisala12345@gmail.com
 - ⚡ Fun fact: Life is cool with Coding  
 
