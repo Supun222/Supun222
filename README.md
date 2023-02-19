@@ -5,9 +5,11 @@
 
 I am from Sri Lanka. Currently Under graduating on Software Engineering at University of Kelaniya, Sri Lanka.  
 
-Skills: Phoenix / REACT / JS / HTML / CSS / Taildwind CSS / NestJS / C# / Java / Elixir 
+Skills: Javascript / Java / Python / C# / C++ / HTML / CSS
+OS: Linux and Windows
+Frameworks: React / Express / Springboot / Phoenix / Fastapi / Taildwind CSS / Surface UI /.Net
 
-- 🌱 I’m currently learning new technologies : Elixir, Phoenix 
+- 🌱 I’m currently learning new technologies : Elixir, Fastapi
 - 📫 How to reach me: supunnisala12345@gmail.com
 - ⚡ Fun fact: Life is cool with Coding  
 
