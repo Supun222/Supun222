@@ -5,7 +5,7 @@
 
 I am from Sri Lanka. Currently Under graduating on Software Engineering at University of Kelaniya, Sri Lanka.  
 
-Skills: Javascript / Java / Python / C# / C++ / HTML / CSS
+Skills: JavaScript / Java / Python / C# / C++ / HTML / CSS
 OS: Linux and Windows
 Frameworks: React / Express / Springboot / Phoenix / Fastapi / Taildwind CSS / Surface UI /.Net
 
