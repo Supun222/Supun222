@@ -3,7 +3,7 @@
 ##### Work Station
 ![My Work Station](https://github.com/Supun222/Supun222/blob/main/WorkStation.jpg)
 
-I am from Sri Lanka. Currently Under graduating on Software Engineering at University of Kelaniya, Sri Lanka.  
+I am from Sri Lanka. Currently Under graduating Management & Information Technology at University of Kelaniya, Sri Lanka.  
 
 Skills: JavaScript / Elixir / Java / Python / C# / C++ / HTML / CSS
 OS: Linux and Windows
