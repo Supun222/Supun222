@@ -6,7 +6,9 @@
 I am from Sri Lanka. Currently Under graduating Management & Information Technology at University of Kelaniya, Sri Lanka.  
 
 Skills: JavaScript / Elixir / Java / Python / C# / C++ / HTML / CSS
+
 OS: Linux and Windows
+
 Frameworks: React / Express / Springboot / Phoenix / Fastapi / Taildwind CSS / Surface UI / .Net
 
 - 🌱 I’m currently learning new technologies : Elixir, Fastapi
