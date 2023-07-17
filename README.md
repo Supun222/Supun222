@@ -5,7 +5,7 @@
 
 I am from Sri Lanka. Currently Under graduating Management & Information Technology at University of Kelaniya, Sri Lanka.  
 
-Skills: JavaScript / Elixir / Java / Python / C# / C++ / HTML / CSS
+Skills: JavaScript / Elixir / Java / Python / C# / C++ / HTML / CSS / ASP.Net core
 
 OS: Linux and Windows
 
