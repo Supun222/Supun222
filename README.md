@@ -9,9 +9,9 @@ Skills: JavaScript / Elixir / Java / Python / C# / C++ / HTML / CSS / ASP.Net
 
 OS: Linux and Windows
 
-Frameworks: React / Express / Springboot / Phoenix / Fastapi / Taildwind CSS / Surface UI / .Net / Nest
+Frameworks: React / Express / Springboot / Phoenix / Fastapi / Taildwind CSS / Surface UI / .Net / NestJS
 
-- 🌱 I’m currently learning new technologies : Fastapi, Nest
+- 🌱 I’m currently learning new technologies : Fastapi, NestJS
 - 📫 How to reach me: supunnisala12345@gmail.com
 - ⚡ Fun fact: Life is cool with Coding  
 
